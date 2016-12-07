@@ -9,16 +9,18 @@
 
 #title {
     background: yellow;
-    padding: 26px 26px 26px 26px;
-    margin: 30px 25px;
+   
     /*add CSS here*/
-    
+     padding: 30px 30px 30px 30px;
+    margin: 30px 25px;
 }
 
 #subtitle {
     background: black;
     color: white;
     /*add CSS here*/
+    padding: 25px 30px 25px 30px;
+    margin: 30px 25px;
     
 }
 
