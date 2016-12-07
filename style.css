@@ -27,6 +27,11 @@
 .topic {
     background: lightgray;
     /*add CSS here*/
+    height: 30px;
+    width: 110px;
+    border: 1px solid red;
+    margin: 30px 30px 40px 30px;
+    display: inline-block;
     
 }
 
